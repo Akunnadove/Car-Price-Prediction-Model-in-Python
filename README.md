@@ -1,4 +1,4 @@
-## Car-Price-Prediction-Model
+## Car Price Prediction Model in Python
 ### OBJECTIVE: To create a model that predicts the prices of cars
 
 ### Dataset features; 
