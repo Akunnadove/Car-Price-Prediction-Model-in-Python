@@ -1,5 +1,5 @@
-# Car-Price-Prediction-Model
-## OBJECTIVE: To create a model that predicts the prices of cars
+## Car-Price-Prediction-Model
+### OBJECTIVE: To create a model that predicts the prices of cars
 
 ### Dataset features; 
 * Car_ID: Unique id of each observation (Interger)
